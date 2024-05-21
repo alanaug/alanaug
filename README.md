@@ -1,4 +1,4 @@
-**I am a student in the 8th semester (Brazilian educational model) of Information Systems at Mackenzie Presbyterian University and currently participating in an academic mobility program in Austria, continuing my studies in the field of technology.**
+**I am an exchange student of the last year of Software Engineering and Management at TU Graz (Austria).**
 
 **Developing user-centered digital applications is my greatest passion :)**
 
