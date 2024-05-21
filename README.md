@@ -1,8 +1,6 @@
-##I am a student in the 8th semester (Brazilian educational model) of Information Systems at Mackenzie Presbyterian University and currently participating in an academic mobility program in Austria, continuing my studies in the field of technology.##
+**I am a student in the 8th semester (Brazilian educational model) of Information Systems at Mackenzie Presbyterian University and currently participating in an academic mobility program in Austria, continuing my studies in the field of technology.**
 
-##Developing user-centered digital applications is my greatest passion :)##
-
-##Link to my portfolio: https://alanaug.github.io/portfolio/##
+**Developing user-centered digital applications is my greatest passion :)**
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
